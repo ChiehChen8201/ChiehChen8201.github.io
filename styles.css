@@ -34,7 +34,7 @@ body {
 
 /* logo class setting */
 .logo {
-  font-size: 70px;
+  font-size: 60px;
   color: lightblue;
   text-decoration: none;
   font-weight: 600;
@@ -52,7 +52,7 @@ body {
 /* animation when mouse hover */
 .navbar a:hover,
 .navbar a.active {
-  color: blue;
+  color: whitesmoke;
 }
 
 /* content setting */
