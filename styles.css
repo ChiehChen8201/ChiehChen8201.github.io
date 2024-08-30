@@ -62,6 +62,12 @@ body {
   padding: 0 10%;
 }
 
+/* content square */
 .home-content {
   max-width: 600px;
+}
+
+.home-content h1 {
+  font-size: 56px;
+  font-weight: 700;
 }
