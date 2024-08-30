@@ -52,7 +52,7 @@ body {
 /* animation when mouse hover */
 .navbar a:hover,
 .navbar a.active {
-  color: whitesmoke;
+  color: #081b29;
 }
 
 /* content setting */
