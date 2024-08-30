@@ -34,7 +34,7 @@ body {
 
 /* logo class setting */
 .logo {
-  font-size: 60px;
+  font-size: 52px;
   color: lightblue;
   text-decoration: none;
   font-weight: 600;
@@ -71,12 +71,14 @@ body {
 .home-content h1 {
   font-size: 56px;
   font-weight: 700;
+  line-height: 1.2;
 }
 
 .home-content h3 {
   font-size: 30px;
   font-weight: 700;
   color: aqua;
+  margin: 20px 0 40px;
 }
 
 .home-content .btn-box {
