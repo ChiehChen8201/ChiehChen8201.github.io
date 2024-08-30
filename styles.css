@@ -19,7 +19,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  width: 90%;
+  width: 100%;
   padding: 20px 10%;
   background: lightblue;
 
@@ -30,13 +30,26 @@ body {
   z-index: 100;
 }
 
-/*  */
-.logo
-{
+/* logo class setting */
+.logo {
   font-size: 25px;
   color: #081b29;
   text-decoration: none;
   font-weight: 600;
+}
+
+/* header list setting */
+.navbar a {
+  font-size: 18px;
+  color: #081b29;
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 20px;
+}
+
+/* animation when mouse hover */
+.navbar a:hover {
+  color: blue;
 }
 
 /* Header styles */
