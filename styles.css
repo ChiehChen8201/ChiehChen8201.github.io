@@ -108,6 +108,11 @@ body {
   letter-spacing: 1px;
   z-index: 1;
   margin-right: 20px;
+  transition: .5s;
+}
+
+.btn-box a:hover {
+  color: #00abf0;
 }
 
 .btn-box a:nth-child(2) {
@@ -115,7 +120,11 @@ body {
   color: #00abf0;
 }
 
-.btn-box a:nth-child(2) {
+.btn-box a:nth-child(2):hover {
+  color: #081b29;
+}
+
+.btn-box a:nth-child(2)::before {
   background: #00abf0;
 }
 
