@@ -52,7 +52,7 @@ body {
 /* animation when mouse hover */
 .navbar a:hover,
 .navbar a.active {
-  color: #081b29;
+  color: white;
 }
 
 /* content setting */
@@ -108,6 +108,7 @@ body {
   letter-spacing: 1px;
   z-index: 1;
   margin-right: 20px;
+  overflow: hidden;
   transition: .5s;
 }
 
