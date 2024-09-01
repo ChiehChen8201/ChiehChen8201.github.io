@@ -148,3 +148,19 @@ body {
 .btn-box a:hover::before {
   width: 100%;
 }
+
+.home-sci {
+  position: absolute;
+  bottom: 40px;
+  width: 150px;
+  background: #00abf0;
+}
+
+.home-sci a {
+  display: inline-flex;
+  width: 40px;
+  height: 40px;
+  background: transparent;
+  border: 2px solid #00abf0;
+  border-radius: 50%;
+}
